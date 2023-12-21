@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarwan-portfolio/static/css/main.60720acd.css",
+    "main.js": "/sarwan-portfolio/static/js/main.060fdcaf.js",
+    "static/js/787.512dd3f2.chunk.js": "/sarwan-portfolio/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/sarwan-portfolio/index.html",
+    "main.60720acd.css.map": "/sarwan-portfolio/static/css/main.60720acd.css.map",
+    "main.060fdcaf.js.map": "/sarwan-portfolio/static/js/main.060fdcaf.js.map",
+    "787.512dd3f2.chunk.js.map": "/sarwan-portfolio/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60720acd.css",
+    "static/js/main.060fdcaf.js"
+  ]
+}
