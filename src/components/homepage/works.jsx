@@ -15,15 +15,27 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src = "https://media.bitsol.tech/wp-content/uploads/2022/04/logo-3.png"
+								alt="bitsol"
+								className="work-image"
+							/>
+							<div className="work-title">Bitsol Technologies</div>
+							<div className="work-subtitle">
+								DevOps Engineer 
+							</div>
+							<div className="work-duration">Aug 2024 - Present</div>
+						</div>
+						<div className="work">
+							<img
 								src = "https://avatars.githubusercontent.com/u/25608508?s=280&v=4"
-								alt="facebook"
+								alt="xgrid"
 								className="work-image"
 							/>
 							<div className="work-title">Xgrid Solutions Limited</div>
 							<div className="work-subtitle">
 								Software Engineer - II (DevOps)
 							</div>
-							<div className="work-duration">May 2022 - Present</div>
+							<div className="work-duration">May 2022 - July 2024</div>
 						</div>
 						<div className="work">
 							<img

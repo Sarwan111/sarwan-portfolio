@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
-		title: "Sarwan's Portfolio",
-		name: "Tharindu N.",
+		title: "Sarwan Kumar",
+		name: "Sarwan Kumar",
 		email: "ksarwan47@gmail.com",
 		logo: "../logo.png",
 	},
@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Software Engineer - DevOps (SRE) ",
+		title: "Software System & DevOps Engineer ",
 		description:
-			"I am a seasoned Software Engineer specializing in DevOps practices, with a strong focus on Site Reliability Engineering (SRE). With a passion for ensuring high system reliability, scalability, and performance, I bring a unique blend of software development and operations expertise to the table.",
+			"A highly skilled Software Systems and DevOps Engineer with extensive experience in backend technologies and DevOps practices. Adept at designing and implementing scalable, robust architectures that meet complex technical requirements. Possesses deep expertise in automating infrastructure, optimizing CI/CD pipelines, and integrating cutting-edge tools and practices to enhance development workflows. Known for a strategic approach to problem-solving, strong collaboration with cross-functional teams, and a commitment to continuous improvement in software delivery processes.",
 	},
 
 	about: {
