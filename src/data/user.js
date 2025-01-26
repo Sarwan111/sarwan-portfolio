@@ -18,11 +18,11 @@ const INFO = {
 	homepage: {
 		title: "Software System & DevOps Engineer ",
 		description:
-			"A highly skilled Software Systems and DevOps Engineer with extensive experience in backend technologies and DevOps practices. Adept at designing and implementing scalable, robust architectures that meet complex technical requirements. Possesses deep expertise in automating infrastructure, optimizing CI/CD pipelines, and integrating cutting-edge tools and practices to enhance development workflows. Known for a strategic approach to problem-solving, strong collaboration with cross-functional teams, and a commitment to continuous improvement in software delivery processes.",
+			"A highly skilled Software Systems and DevOps Engineer with extensive experience in backend technologies and DevOps practices. Deployed 30+ Applications on multiple cloud environments, Adept at designing and implementing scalable, robust architectures that meet complex technical requirements. Possesses deep expertise in automating infrastructure, optimizing CI/CD pipelines, and integrating cutting-edge tools and practices to enhance development workflows. Known for a strategic approach to problem-solving, strong collaboration with cross-functional teams, and a commitment to continuous improvement in software delivery processes.",
 	},
 
 	about: {
-		title: "I'm Sarwan Kumar, a DevOps Engineer hailing from Pakistan, dedicated to shaping the future through innovation and technology",
+		title: "I'm Sarwan Kumar, a DevOps Engineer, passionate about driving innovation and transforming the future of infrastructure and automation.",
 		description:
 			"I've had the privilege of contributing to a diverse range of projects throughout my career, and I take pride in the strides we've made together. My experience extends into the realm of DevOps and Site Reliability Engineering (SRE), where I've harnessed critical tools such as Docker, Prometheus, Kubernetes, and Infrastructure as Code (IaC) with Terraform to streamline development and operations. In my SRE experience, I've been responsible for ensuring the reliability, scalability, and performance of mission-critical systems.\n\nThis includes implementing proactive monitoring and alerting strategies, conducting post-incident reviews to improve system resilience, and automating routine operational tasks to minimize manual intervention. Furthermore, my journey in the tech world has led me to collaborate extensively with public cloud providers, including AWS (Amazon Web Services), GCP (Google Cloud Platform), and Azure (Microsoft Azure). My proficiency in these cloud ecosystems has allowed me to architect scalable and resilient solutions, further enhancing the capabilities and efficiency of the projects I've been involved in. Whether it's optimizing cloud resources for cost efficiency or implementing robust disaster recovery plans, I've consistently leveraged my SRE expertise to deliver high-performing and reliable systems.",
 	},
@@ -35,6 +35,30 @@ const INFO = {
 	},
 
 	projects: [
+		{
+			title: "Deployed HealthCare Web Application on AWS",
+			description:
+				"Designed and deployed a scalable HealthCare web application using AWS services. Utilized AWS CodePipeline for CI/CD, Elastic Beanstalk for deployment, RDS for database management, and S3 for storage. Integrated VPC for secure networking, SSL for enhanced security, and Lambda functions for serverless processing. Built with Next.js and NestJS for seamless performance and modern UI.",
+			logo: "https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+		{
+			title: "Deployed Job Portal - AWS",
+			description:
+				"Deployed a secure and scalable job portal using AWS. Implemented VPC for networking, WAF for security, and EC2 instances with AutoScaling groups for high availability. Configured PostgreSQL and MongoDB for data storage with automated backups. Integrated DNS configurations, Let’s Encrypt for SSL, and a load balancer for seamless traffic management. Used CodeBuild, CodeDeploy, and a container registry for CI/CD, with CloudWatch for logging and monitoring.",
+			logo: "https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+		{
+			title: "Ecommerce Site - MS Azure",
+			description:
+				"Deployed and maintained an ecommerce site built with Next.js and NestJS on Microsoft Azure. Utilized Virtual Networks, App Services, and Storage Accounts for secure and scalable infrastructure. Integrated Azure Container Registries and Cosmos DB for efficient container management and data storage. Leveraged Azure DevOps Pipelines for CI/CD, along with monitoring and logging tools to ensure reliability, performance, and scalability.",
+			logo: "https://swimburger.net/media/ppnn3pcl/azure.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
 		{
 			title: "Website Health Checker",
 			description:

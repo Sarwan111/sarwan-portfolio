@@ -52,7 +52,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsFpKy26KAQUWt3xHll9Cyk-MFKo-AZWYmTo7pdN4JA&s"
+								src="https://files.startupranking.com/startup/thumb/553757_d6fe1a614fd7f6045d8c023d627eaca534aed93c_the-ideators_l.jpeg"
 								alt="twitter"
 								className="work-image"
 							/>

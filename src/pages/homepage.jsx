@@ -97,6 +97,7 @@ const Homepage = () => {
 
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description}
+									
 								</div>
 							</div>
 
